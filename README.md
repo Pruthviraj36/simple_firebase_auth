@@ -136,7 +136,7 @@ This package assumes you’ve already:
 
 ## 🙌 License
 
-MIT © [Your Name or Org]
+MIT © Chauhan Pruthviraj
 
 
 ---
